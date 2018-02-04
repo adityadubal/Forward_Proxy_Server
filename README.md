@@ -15,11 +15,6 @@ This proxy server implemented with Caching. HTTP proxy caching enables to store 
 8. Forward content to client.
 9. Close the socket.
 
-## Prerequisites
-You will need Python version 2.7 or greater to be installed on your system. You can download and install from following link.
-
-https://www.python.org/download/releases/2.7/
-
 ## Running the Program
 To run this program from windows command prompt, enter the following command:
 
